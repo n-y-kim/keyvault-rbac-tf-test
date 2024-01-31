@@ -1,0 +1,7 @@
+*.terraform
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+
+# Have custom values, so do not commit
+env.sh
